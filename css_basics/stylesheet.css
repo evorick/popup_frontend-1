@@ -1,0 +1,48 @@
+/*
+Selctor {
+    Property: Value;
+ }*/
+ 
+ p {
+     color: red;
+     font-size: 18px;
+     background-color: blue;
+     
+ }
+ 
+ div p {
+     color: orange;
+     font-size: 40px;
+     background-color:black;
+ }
+ 
+ * {
+     font-family: Arial;
+ }
+ 
+ .class
+ 
+ #id
+ 
+ .class_test{
+     font-size:150px;
+     color:white;
+ }
+ 
+ #id_test {
+     color: yellow;
+     font-size: 6px;
+ }
+ .hover_test:hover {
+     color:purple;
+     
+ }
+ a:visited {
+     color:lime;
+ }
+ #popular {
+     color: green;
+     color:#2FEBCB; #000000 #ffffff
+     color:rgb(47,235,203);
+     
+ }
